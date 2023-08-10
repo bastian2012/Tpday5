@@ -15,7 +15,7 @@ const Pitit1 = () => {
                 </div>
                 <div className="postyo">
                     <h2 style={{color:'black'}}>kalitem</h2>
-                        <p>opfhkoh ofhnmoptr opercpwy peohwpoy operthpowy 9wet,-ye epfwy rfwtyu twyt </p>
+                        <p>Mwen renmen fè analiz, kapasite pou rezoud pwoblèm, ak kapasite pou kreye kontni ki klè ak byen struktire. Nan tan lib, mwen renmen li, ekri sou divès sijè, ak menm tou aprann sou kilti ak lang diferan yo." </p>
                     </div>
 
                 <div className="postyo">
