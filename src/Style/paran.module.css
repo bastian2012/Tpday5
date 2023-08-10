@@ -1,0 +1,11 @@
+/* External CSS for Paran component */
+.paragraph {
+    background-color: #505052;
+    padding: 20px;
+}
+
+h2{
+    color: aliceblue;
+    text-align: center;
+    margin: auto;
+}
