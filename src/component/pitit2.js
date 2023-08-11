@@ -4,7 +4,7 @@ import '../Style/pitit2.css';
 const Pitit2 = () => {
     return (
         <form className="formulaire">
-            <h2 className="tete" style={{backgroundColor:'#02456a'}} >Contact Us</h2>
+            <h2 className="tete" style={{backgroundColor:'#02456a'}} >Contact Me</h2>
             <label htmlFor="name" className="label">
                 Name:
             </label>
